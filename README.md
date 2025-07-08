@@ -19,11 +19,12 @@
 ```yaml
 name: Flavia Conti Rossini
 located_in: Zurich, Switzerland
-current_job: Business Analyst
+current_job: Cybersecurity professional
 education:
   [
     "Master's in Business Innovation",
     "Bachelor's in Business Administration",
+    "Bsc Information & Cybersecurity",
   ]
 fields_of_interests:
   [
@@ -32,7 +33,7 @@ fields_of_interests:
     "Machine Learning",
     "Blockchain",
   ]
-currently_learning: ["Java, HTML5, CSS, Python"]
+currently_learning: ["Java, HTML5, CSS,Javascript,Python"]
 2025 Goals: ["Create 4+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Fitness", "Gardening", "Design"]
 
